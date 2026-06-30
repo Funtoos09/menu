@@ -1,1 +1,1 @@
-![Architecture](images/menu.jpeg)
+![Logo](menu.jpeg)
